@@ -18,5 +18,6 @@ Link: https://vinnymoraes-dev.github.io/tela-login-cadastro-deslizante/
 
 ![login-register-sliding](https://user-images.githubusercontent.com/56524332/191481146-6976d7d8-3537-450e-92ee-65ca8aeccb3d.JPG)
 
-![menina-astronauta02](https://user-images.githubusercontent.com/56524332/191489800-3b58b67f-130c-4937-b8e6-7cf02a23f416.JPG)
+![login-register-sliding02](https://user-images.githubusercontent.com/56524332/191489891-57d0e4d9-09e8-46e8-b83f-82ccc820afce.JPG)
+
 
