@@ -14,7 +14,9 @@ Foi somente utilizado HTML5, CSS3 e JavaScript "puro", sem nenhum Framework.
 
 Foi trabalhado bastante a responsividade para mobile-first.
 
+Link: https://vinnymoraes-dev.github.io/tela-login-cadastro-deslizante/
 
 ![login-register-sliding](https://user-images.githubusercontent.com/56524332/191481146-6976d7d8-3537-450e-92ee-65ca8aeccb3d.JPG)
 
-Link: https://vinnymoraes-dev.github.io/tela-login-cadastro-deslizante/
+![menina-astronauta02](https://user-images.githubusercontent.com/56524332/191489800-3b58b67f-130c-4937-b8e6-7cf02a23f416.JPG)
+
